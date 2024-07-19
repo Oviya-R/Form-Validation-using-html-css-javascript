@@ -1,0 +1,57 @@
+form label{
+    display: block;
+    color: purple;
+}
+input[type="text"],
+input[type="password"],
+input[type="number"]
+{
+    padding-left: 0px;
+}
+
+input{
+    width: 250px;
+    border: 3px solid ;
+}
+button{
+    padding: 10px;
+    width: 255px;
+    border: 3px solid;
+}
+button:hover{
+    background-color: pink;
+    color: purple;
+}
+.form{
+    background-color: violet;
+    padding-left: 150px;
+    padding-bottom: 102px;
+}
+img{
+    margin-left: 60px;
+}
+textarea{
+    border: 3px solid;
+}
+.border{
+    border: 2px solid;
+}
+input:hover{
+    background-color: pink;
+}
+textarea:hover{
+    background-color: pink;
+}
+form{
+    padding-top: 40px;
+}
+h1{
+    position:absolute;
+    top: 30px;
+    right: 750px;
+}
+.heading{
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
